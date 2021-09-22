@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;ViewVentana.java&apos; to &apos;Taller1_Repaso_Fundamentos/src/co.edu.unbosque.view&apos;&#x0D;&#x0A;- Original project: &apos;CiclosEJ_Todos&apos;&#x0D;&#x0A;- Destination element: &apos;Taller1_Repaso_Fundamentos/src/co.edu.unbosque.view&apos;&#x0D;&#x0A;- Original element: &apos;co.edu.unbosque.view.ViewVentana.java&apos;" description="Copy compilation unit" destination="=Taller1_Repaso_Fundamentos/src&lt;co.edu.unbosque.view" element1="/src&lt;co.edu.unbosque.view{ViewVentana.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1614136730860" units="1" version="1.0"/>
+</session>

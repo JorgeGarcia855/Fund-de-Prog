@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;ViewConsola.java&apos; to &apos;CalculadoraDiscretasTest/src/co.edu.unbosque.view&apos;&#x0D;&#x0A;- Original project: &apos;FP_Ciclos2&apos;&#x0D;&#x0A;- Destination element: &apos;CalculadoraDiscretasTest/src/co.edu.unbosque.view&apos;&#x0D;&#x0A;- Original element: &apos;co.edu.unbosque.view.ViewConsola.java&apos;" description="Copy compilation unit" destination="=CalculadoraDiscretasTest/src&lt;co.edu.unbosque.view" element1="/src&lt;co.edu.unbosque.view{ViewConsola.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1605997550103" units="1" version="1.0"/>
+</session>

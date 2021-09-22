@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="co.edu.unbosque.controller.ControllerEJ3"/>
+    <fullyQualifiedTypeName name="co.edu.unbosque.model.Operaciones"/>
+    <fullyQualifiedTypeName name="sun.net.www.content.text.plain"/>
+    <fullyQualifiedTypeName name="co.edu.unbosque.view.ViewVentana"/>
+    <fullyQualifiedTypeName name="co.edu.unbosque.view.View"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
+    <fullyQualifiedTypeName name="java.lang.Character"/>
+    <fullyQualifiedTypeName name="com.sun.xml.internal.bind.v2.model.core.ID"/>
+    <fullyQualifiedTypeName name="co.edu.unbosque.model.Persona"/>
+    <fullyQualifiedTypeName name="co.edu.unbosque.controller.Controller"/>
+    <fullyQualifiedTypeName name="co.edu.unbosque.model.Herencia"/>
+    <fullyQualifiedTypeName name="co.edu.unbosque.model.Empleado"/>
+    <fullyQualifiedTypeName name="javax.swing.JButton"/>
+    <fullyQualifiedTypeName name="javax.swing.JLabel"/>
+    <fullyQualifiedTypeName name="javax.swing.JPanel"/>
+    <fullyQualifiedTypeName name="java.awt.Font"/>
+</qualifiedTypeNameHistroy>

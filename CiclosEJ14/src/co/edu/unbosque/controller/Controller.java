@@ -1,0 +1,24 @@
+package co.edu.unbosque.controller;
+
+import co.edu.unbosque.model.Ciclos;
+import co.edu.unbosque.view.ViewConsola;
+
+public class Controller {
+	
+	private ViewConsola vista;
+	private Ciclos ciclos;
+	
+	public Controller() {
+		vista = new ViewConsola();
+		ciclos = new Ciclos();
+		funcionar();
+	}
+	
+	public void funcionar() {
+		vista.mostrarMensaje("Los multiplos son los siguientes: ");
+		vista.mostrarMensaje(""+ciclos.ejercicio14());
+	}
+}
+	
+
+

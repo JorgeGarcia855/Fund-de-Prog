@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;co.edu.unbosque.controller&apos; to &apos;FP_ExamenFinal/src&apos;&#x0D;&#x0A;- Original project: &apos;FP 2020-2 NumerosAleatorios&apos;&#x0D;&#x0A;- Destination element: &apos;FP_ExamenFinal/src&apos;&#x0D;&#x0A;- Original element: &apos;FP 2020-2 NumerosAleatorios/src/co.edu.unbosque.controller&apos;" description="Copy package" destination="=FP_ExamenFinal/src" element1="/src&lt;co.edu.unbosque.controller" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1606831789317" version="1.0"/>
+</session>
